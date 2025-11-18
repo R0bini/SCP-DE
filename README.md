@@ -10,5 +10,5 @@
 
 The theme of the SCP-DE branch is based on the [Common Theme](https://github.com/Grombald/Common-Theme).
 
-**License:** Unless otherwise noticed, all content of this repository is licensed under [CC BY-SA 3.0 Unported](https://github.com/Grombald/Common-Theme/blob/master/LICENSE.md)<br>
+**License:** Unless otherwise noticed, all content of this repository is licensed under [CC BY-SA 3.0 Unported](https://github.com/R0bini/SCP-DE/blob/main/LICENSE.md)<br>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
